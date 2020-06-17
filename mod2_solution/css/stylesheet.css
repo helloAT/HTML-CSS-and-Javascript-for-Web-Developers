@@ -39,16 +39,16 @@ p {
 }
 
 #chicken {
-  background-color: lightcoral;
+  background-color: #f08080;
 }
 
 #beef {
-  background-color: crimson;
+  background-color: #dc143c;
   color: aliceblue;
 }
 
 #sushi {
-  background-color: burlywood;
+  background-color: #deb887;
 }
 
 /********** Desktop version **********/
